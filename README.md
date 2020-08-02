@@ -16,4 +16,3 @@ Check out the code for in depth documentation :)
 <li>JSON<li>
 
 -Carter Clements
-
