@@ -13,6 +13,6 @@ Check out the code for in depth documentation :)
 <h4>Stack</h4>
 <li>Python</li>
 <li>Flask</li>
-<li>JSON<li>
+<li>JSON</li>
 
 -Carter Clements
